@@ -1,0 +1,4 @@
+flask
+nltk
+PyPDF2
+PyQt5
